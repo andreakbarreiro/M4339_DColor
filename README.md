@@ -17,3 +17,12 @@ You can install these using pip:
 `$ python3 -m pip install -U numpy`
 
 `$ python3 -m pip install -U matplotlib`
+
+## Brief description of scripts
+
+The jupyter notebooks were written to demonstrate various features in class. Section, example and exercise numbers refer to:
+
+Complex Variables and Analytic Functions, Bengt Fornberg and Cecile Piret, SIAM 2020.
+
+Examples_of_Singularities.ipynb: Chapter 2.4
+Exploring_Pade_Approximations.ipnyb: Chapter 3.2.9
