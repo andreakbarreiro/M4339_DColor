@@ -25,4 +25,5 @@ The jupyter notebooks were written to demonstrate various features in class. Sec
 Complex Variables and Analytic Functions, Bengt Fornberg and Cecile Piret, SIAM 2020.
 
 Examples_of_Singularities.ipynb: Chapter 2.4
+
 Exploring_Pade_Approximations.ipnyb: Chapter 3.2.9
